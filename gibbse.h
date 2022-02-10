@@ -12,7 +12,7 @@
 #include <math.h>
 #include <sstream>
 #include "const.h"
-#include "../../../GibbsFE_minimization/element.h"
+#include "element.h"
 
 const int Anderson = 1;
 
